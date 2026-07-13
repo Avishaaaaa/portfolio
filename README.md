@@ -6,14 +6,6 @@ A modern, responsive, and user-friendly **personal portfolio website** built usi
 This project was developed from scratch without using any templates, focusing on clean design, reusable components, responsive layouts, and a professional user experience.
 
 
-##  Project Screenshot
-
-Add your project screenshot here:
-
-```
-![Portfolio Website Screenshot](./screenshot.png)
-```
-
 ## Features
 
 *  **Home Section**
@@ -130,7 +122,7 @@ Through this project, I improved my understanding of:
 * Working with Git and GitHub
 * Deploying React applications
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add animations and transitions
 * Add a downloadable resume section
