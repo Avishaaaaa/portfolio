@@ -33,7 +33,7 @@ This project was developed from scratch without using any templates, focusing on
 
   * Provides ways to connect professionally
 
-* 📱 **Fully Responsive Design**
+*  **Fully Responsive Design**
 
   * Optimized for desktop, tablet, and mobile devices
 
